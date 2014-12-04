@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="SOSMessage">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyAlias" value="androiddebugkey" />
+        <option name="keyPassword" value="SWdvUk9DSw==" />
+        <option name="keyStorePassword" value="SWdvUk9DSw==" />
+        <option name="keyStoreUrl" value="file://$USER_HOME$/pysmennyi.jks" />
+        <option name="signingMode" value="RELEASE_SIGNED" />
+      </options>
+    </properties>
+    <root id="archive" name="SOSMessage.apk">
+      <element id="android-final-package" facet="SOSMessage/android/Android" />
+    </root>
+  </artifact>
+</component>

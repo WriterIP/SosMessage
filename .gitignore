@@ -1,0 +1,6 @@
+.hg
+.class
+.hgignore
+.hg/*
+.apk
+bin/*

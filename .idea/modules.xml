@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SOSMessage.iml" filepath="$PROJECT_DIR$/SOSMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appcompat/android-support-v7-appcompat.iml" filepath="$PROJECT_DIR$/../appcompat/android-support-v7-appcompat.iml" />
+      <module fileurl="file://$USER_HOME$/android-sdk-macosx/extras/android/support/v7/appcompat/appcompat.iml" filepath="$USER_HOME$/android-sdk-macosx/extras/android/support/v7/appcompat/appcompat.iml" />
+    </modules>
+  </component>
+</project>
+
